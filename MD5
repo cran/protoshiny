@@ -1,10 +1,10 @@
-d8c6f6ecdefba8c30634a45f70f06df3 *DESCRIPTION
+df6f95547e3553476ae14a28a39f3372 *DESCRIPTION
 62cd0487134ef46642f8b822fbb387d2 *LICENSE.note
 1140c424efd0d500e57a3e02e810e46b *NAMESPACE
-8cd40d8974732d83348a459777b35710 *NEWS.md
+44b45be6b1b00b328f07bd3d149beee2 *NEWS.md
 ab1cfc4353c08b1f826d79acf33fd3cd *R/application.R
-f58b5123647c8ffd8af3d5bee9d8f78e *R/as.protoclust.R
-276ee63f644eb817f14a0fcfdb069b77 *R/extdata.R
+f45e8b6be5f4d1a353a51b1ae2b405e5 *R/as.protoclust.R
+da2367a8a9389ec7e108c529f15356f6 *R/extdata.R
 1e91545753805b254f62693e08bd8d4b *R/get_clusters.R
 33e827871a07d96d57c1d3f81d37e8f7 *R/hclust.R
 439fdbe8bd4c3a06c5948154adfcda35 *R/helpers.R
@@ -24,7 +24,7 @@ cc1496467200b244b9bdc6b67c3dc991 *inst/dendrogram/top-nav-links.js
 b6f794a1e1722f03685c9560eb206c34 *inst/ext_data/movies.Rdata
 dbaa90e4fa60f10a9061b3e79d8f3359 *inst/ext_data/seaflow.Rdata
 892a14b81d14b3b7d2e79e2357781919 *inst/ext_data/words.Rdata
-87cf53aab4ef9ee7b673908db83c845c *man/as.protoclust.Rd
+48b0343229400846683553ee33dffcd5 *man/as.protoclust.Rd
 02bcd3f0f54b29f05d069005f0e58a52 *man/branch.Rd
 be0b8ed382baccd2b9cc12204fde106b *man/covid19.Rd
 a0189d384f464222cb3ee04d7ccfd9d9 *man/dynGraph.Rd
@@ -51,7 +51,7 @@ cf0babd698abb925fe81017bedd6593c *man/protoclust_to_json.Rd
 a62bbd9d9bcdf629e0dc00b20b1710c9 *man/selectJS.Rd
 f0db57935e0362fdc6202b487c7fce10 *man/upper.Rd
 bfe35e153631a6da7e4762ff2f33720c *man/visualize_hc.Rd
-26d6883dd0811b56c4dcbab11472199b *man/words.Rd
+289a3fb3624abc6dcca0dc06c8960d91 *man/words.Rd
 67d9f1d5a0e918bb2d9cb304c7391e63 *tests/testthat.R
 c89e0808aed624093657f17d5d910ae5 *tests/testthat/test-get_cut_from_merge_id.R
 4afa872692005bf022dcf219aeb39720 *tests/testthat/test-get_paths_from_cut.R
